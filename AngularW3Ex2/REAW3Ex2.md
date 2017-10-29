@@ -15,13 +15,13 @@ AngularJS will resolve the expression, and return the result exactly where the e
 AngularJS expressions are much like JavaScript expressions: They can contain literals, operators, and variables.
 Example {{ 5 + 5 }} or {{ firstName + " " + lastName }}
 ###AngularJS Numbers
-AngularJS numbers are like JavaScript numbers:
+AngularJS numbers are like JavaScript numbers
 ###AngularJS Strings
-AngularJS strings are like JavaScript strings:
+AngularJS strings are like JavaScript strings
 ###AngularJS Objects
-AngularJS objects are like JavaScript objects:
+AngularJS objects are like JavaScript objects
 ###AngularJS Arrays
-AngularJS arrays are like JavaScript arrays:
+AngularJS arrays are like JavaScript arrays
 ###AngularJS Expressions vs. JavaScript Expressions
 Like JavaScript expressions, AngularJS expressions can contain literals, operators, and variables.
 Unlike JavaScript expressions, AngularJS expressions can be written inside HTML.
