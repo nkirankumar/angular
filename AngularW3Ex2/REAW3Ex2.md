@@ -34,6 +34,7 @@ The ng-app directive tells AngularJS that the <div> element is the "owner" of an
 The ng-model directive binds the value of the input field to the application variable name.
 The ng-bind directive binds the innerHTML of the <p> element to the application variable name. 
 ###AngularJS Applications###
+
 AngularJS modules define AngularJS applications.
 AngularJS controllers control AngularJS applications. 
 The ng-app directive defines the application, the ng-controller directive defines the controller.
