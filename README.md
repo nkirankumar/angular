@@ -1,2 +1,2 @@
 # angular
-contains angular learning
+contains angular learning with eaxamples
